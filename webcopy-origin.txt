@@ -1,0 +1,68 @@
+Uri: https://charlesdesignsux.netlify.app/
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://charlesdesignsux.netlify.app/assets/favicon.svg
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\assets\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://charlesdesignsux.netlify.app/assets/logo.svg
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\assets\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://charlesdesignsux.netlify.app/assets/project1.png
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\assets\project1.png
+Content Type: image/png
+
+Uri: https://charlesdesignsux.netlify.app/css/styles.css
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\css\styles.css
+Content Type: text/css
+
+Uri: https://charlesdesignsux.netlify.app/js/script.js
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\js\script.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700&display=swap
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=400&q=80
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\photo-1546069901-ba9599a7e63c
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\photo-1551288049-bebda4e38f71
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=400&q=80
+File Name: C:\Users\Charleston\Downloads\Files\charlesdesignsux.netlify.app\photo-1565299624946-b28f40a0ae38
+Content Type: image/jpeg
+
